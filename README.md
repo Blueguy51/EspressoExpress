@@ -2,7 +2,7 @@
 First, I apologize for my delay in submitting this project. The reason of my delay were errors when uploading to github, bad gateway (I don't know why), and data lost when uploading to github (this is the most horrible problem, because I must make the project from scrap, again... *I forgot to make a backup*)
 
 # LOG
-11/10/2022|21.32.06: Project uploaded to Github with espressoexpress as repository
+11/10/2022|21.32.06: Project uploaded to Github with espressoexpress as repository\n
 11/10/2022|21.33.14: Error uploading to github, you don't have premission to github Blueguy51/espressoexpress
 11/10/2022|21.33.14: Permission denied to *******-****
 11/10/2022|22.14.56: Creating new repository EspressoExpress from github.com
